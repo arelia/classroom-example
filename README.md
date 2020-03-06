@@ -1,3 +1,3 @@
 # classroom-example
 
-Test template repo
+Use `assignment.html` to create your personal biography page.
